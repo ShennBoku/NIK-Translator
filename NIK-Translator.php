@@ -1,3 +1,4 @@
+<?php
 class NIKTranslator
 {
     // Get current year and get the last 2 digit numbers
